@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @s3rg0sh4
+- 👋 Hi, I’m Sergei
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on learning C#/.NET
 - 📫 How to reach me tlg @s3rg0sh4
 
 <!---
